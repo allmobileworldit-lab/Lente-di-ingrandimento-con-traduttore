@@ -1,0 +1,6 @@
+{
+  "name": "Lente e Traduttore",
+  "description": "Lente di ingrandimento per fotocamera con zoom variabile e traduzione testo in italiano",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
